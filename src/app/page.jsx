@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       <h1>LeVar Burton Reads Review Site</h1>
       <h2>
-        Welcome! Here we post links to episodes from the award-winning
+        Welcome! Here we post reviews of episodes from the award-winning
         storytelling podcast LeVar Burton Reads and discuss our hot takes in a
         friendly, non-judgmental way
       </h2>
@@ -21,6 +21,7 @@ export default function Home() {
         <img
           src="geordi.jpg"
           alt="Geordi La Forge from Star Trek played by Levar Burton"
+          title="Geordi La Forge from Star Trek played by Levar Burton"
           width={300}
         />
       </Link>
